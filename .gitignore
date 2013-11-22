@@ -1,3 +1,4 @@
+# Haskell stuff
 dist
 cabal-dev
 *.o
@@ -5,3 +6,7 @@ cabal-dev
 *.chi
 *.chs.h
 .virthualenv
+
+# XMonad specific
+xmonad.errors
+xmonad-x86_64-linux
